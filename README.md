@@ -51,6 +51,9 @@ Tenemos [apuntes](https://robo-tics-slp.net/ecuaciones) adicionales.
 
 ## Contacto
 
-⌨️ con ❤️ por Alejandro César Rico Martínez - [@canay94](https://twitter.com/canay94) - alejandro.rico@tecsuperiorslp.edu.mx
 
+
+⌨️ con ❤️ por Alejandro César Rico Martínez - [@canay94](https://twitter.com/canay94)
+
+[alejandro.rico@tecsuperiorslp.edu.mx](mailto:alejandro.rico@tecsuperiorslp.edu.mx?subject=Saludos "Hi!")
 
