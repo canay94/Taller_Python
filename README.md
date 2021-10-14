@@ -53,5 +53,3 @@ Tenemos [apuntes](https://robo-tics-slp.net/ecuaciones) adicionales.
 ⌨️ con ❤️ por Alejandro César Rico Martínez - [@canay94](https://twitter.com/canay94) - alejandro.rico@tecsuperiorslp.edu.mx
 
 
-:octicons-heart-fill-24:{ .heart }
-
