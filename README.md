@@ -1,4 +1,4 @@
-# Taller de Python básico, un poco de repositorios, markdown y LATEX
+# Taller de Python.
 
 _ITSSLPC-ISC_
 
